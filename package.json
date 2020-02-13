@@ -4,6 +4,9 @@
 	"displayName": "Extension Sync",
 	"description": "Syncs the list of installed VSCode extensions with JSON file",
 	"version": "0.0.1",
+	"repository": {
+		"url": "https://github.com/georgevarghese185/vscode-extensions-sync.git"
+	},
 	"engines": {
 		"vscode": "^1.41.0"
 	},
