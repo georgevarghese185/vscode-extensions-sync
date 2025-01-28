@@ -1,3 +1,5 @@
+(A long time ago, I used to use this self-made VS Code extension to sync all my installed extensions to a file to make restoring them on another system easier. Since then, VS Code has supported signing in with GitHub and syncing your settings and extensions to the cloud. I use that feature and no longer have use for this project so I've decided to archive it)
+
 # Extensions Sync
 
 Synchronizes a list of your installed extensions to a JSON file.
